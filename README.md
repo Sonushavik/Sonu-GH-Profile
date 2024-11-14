@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate on for backend [Hostel Management System](https://github.com/Sonushavik/HOSTEL-FRONTEND)
 
+- 📝 My Blog [https://jsonwebtoken.hashnode.dev/jwt-json-web-token](https://jsonwebtoken.hashnode.dev/jwt-json-web-token)
+
 - 💬 Ask me about **HTML, CSS, JS, REACT, BOOTSTRAP, TALWIND**
 
 - 📫 How to reach me **sonuk06212@gmail.com**
